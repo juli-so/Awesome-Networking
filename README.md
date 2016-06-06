@@ -3,7 +3,7 @@ Awesome Networking
 
 A curated list of awesome networking libraries, resources and shiny things.
 
-- HTTP
++ HTTP
   + [HTTP: The Definitive Guide](http://shop.oreilly.com/product/9781565925090.do)
   - [HTTP/1.1](https://www.ietf.org/rfc/rfc2616.txt)
   - [HTTP/2 draft](https://tools.ietf.org/html/draft-ietf-httpbis-http2-16)
